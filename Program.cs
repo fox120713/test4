@@ -45,7 +45,7 @@ namespace 六月二二
 
             #endregion
 
-            Console.WriteLine("hello");
+            Console.WriteLine("hello world");
 
 
         }
